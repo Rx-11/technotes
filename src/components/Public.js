@@ -10,6 +10,9 @@ const Public = () => {
             <main className="public__main">
                 <p>This app is made using the MERN stack</p>
                 <br />
+                <p>Use id: test</p>
+                <p>Use pass: test</p>
+                <br />
                 <p>Made by Vedant Kannawar</p>
             </main>
             <footer>
